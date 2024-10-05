@@ -1,0 +1,7 @@
+[mod]
+name="Always Permadeath"
+id="always-permadeath"
+version="0.0.1"
+
+[autoload]
+0="res://AlwaysPermadeath/Main.gd"
