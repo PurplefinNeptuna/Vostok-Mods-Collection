@@ -1,5 +1,5 @@
 # Road to Vostok Permadeath Mod
-Simple mod for an experimental mod loader for Road to Vostok Demo 2 V2.
+Simple mod for an experimental mod loader for Road to Vostok Public Demo 2 V2.
 so it's not stable, not for everyone.
 
 ## Installation
