@@ -1,6 +1,6 @@
 extends Node
 func _ready():
-	overrideScript("res://AlwaysPermadeath/Character.gd")
+	overrideScript("res://AlwaysPermadeath/Loader.gd")
 	queue_free()
 
 func overrideScript(overrideScriptPath : String):

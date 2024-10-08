@@ -1,7 +1,7 @@
 [mod]
 name="No Permadeath"
 id="no-permadeath"
-version="0.0.1"
+version="0.0.2"
 
 [autoload]
 0="res://NoPermadeath/Main.gd"
